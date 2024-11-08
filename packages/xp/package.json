@@ -1,6 +1,6 @@
 {
   "name": "@victordobry/xp",
-  "version": "0.1.0",
+  "version": "1.0.0-alpha.0",
   "description": "Experimantal package published to understand the publishing process",
   "author": "Victor Dombrovskiy <dombrovskiy@klaim.ai>",
   "homepage": "https://github.com/victordobry/xp-lerna#readme",
